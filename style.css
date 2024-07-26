@@ -36,14 +36,14 @@ input{
     margin-bottom: 15px;
 }
 
-#assistance{
+#help{
     padding-left: 10px;
 }
 .email{
     opacity: .6;
 }
 
-.pwd{
+.pswd{
     padding-left: 40px;
     opacity: .6;
 }
