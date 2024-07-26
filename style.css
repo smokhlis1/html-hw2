@@ -1,0 +1,119 @@
+#continue{
+    width: 315px;
+    height: 33px;
+    font-size: 14px;
+    background:  linear-gradient(#F7DEA1, #F0C14D);
+    border: 0.5px solid #aaaaaa;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+
+
+body{
+    font-size: 13px;
+    line-height: 19px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#sign-in{
+    position: static;
+    margin: 0 auto;
+    border: 0.5px solid #DDDDDD;
+    border-radius: 3px;
+    width: 340px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+
+input{
+    border-left-color: #d2caca;
+    border-right-color: #d2caca;
+    border-radius: 3px;
+    border-width: 0.2px;
+    height: 25px;
+    width: 315px;
+    margin-bottom: 15px;
+}
+
+#assistance{
+    padding-left: 10px;
+}
+.email{
+    opacity: .6;
+}
+
+.pwd{
+    padding-left: 40px;
+    opacity: .6;
+}
+
+input:focus{
+    box-shadow: 0px 0px 1.5px 1.5px rgba(231, 118, 0, 0.9);
+    outline: none;
+
+}
+
+#sign-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26.5px;
+    opacity: .8;
+}
+
+#last{
+    width: 340px;
+}
+.new-customer{
+    color: rgb(31, 20, 20);
+    letter-spacing: normal;
+    width: 100%;
+    text-align: center;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p span{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#new-account{
+    width: 340px;
+    opacity: 0.6;
+    height: 30px;
+}
+#button-create-account{
+    text-align: center;
+}
+hr{
+    margin-top: 30px;
+}
+
+a:link{
+    font-size: 12px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #0066c0;
+}
+
+ a:visited{
+    color: #0066c0;
+ }
+
+ #last{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+ }
+
+ #special{
+    opacity: .6;
+ }
+
+ #forgot{
+    margin-left: 125px;
+ }
